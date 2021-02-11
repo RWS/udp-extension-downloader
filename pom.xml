@@ -11,7 +11,7 @@
 
 
     <properties>
-        <udp.dxa.extension.assembly.version>11.0.0-1070</udp.dxa.extension.assembly.version>
+        <udp.dxa.extension.assembly.version>11.0.0-1077</udp.dxa.extension.assembly.version>
         <extension.target.folder>./jars</extension.target.folder>
     </properties>
 
